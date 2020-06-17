@@ -1,0 +1,55 @@
+body {
+  /* this is a css */
+  background-color: #c5fcef;
+  color: #313657;
+  font-family: "Courier New", Courier, monospace;
+
+  /* EVERYTHING IS A BOX */
+
+  /* MARGIN */
+  /* BORDER */
+  /* PADDING */
+  /* CONTENT */
+  /* PADDING */
+  /* BORDER */
+  /* MARGIN */
+}
+
+main {
+  width: 80%;
+  max-width: 600px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  color: #bf2e02;
+  font-weight: bold;
+}
+
+a:hover {
+  color: white;
+  background-color: black;
+}
+
+/* only apply these rules to any
+   html elements with class="video"
+*/
+.video {
+  text-align: center;
+}
+
+h1 {
+  border: 5px dashed black;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 3px dashed black;
+  text-align: center;
+}
