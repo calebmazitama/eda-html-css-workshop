@@ -8,6 +8,13 @@ Once installed, create a new folder and open Atom so that it looks like this!
 
 Video instructions are available here (~3mins): https://vimeo.com/429373928
 
+## Post Workshop Update
+
+This code is live over here! https://blainebooher.com/eda-workshop-06-16/
+Here's a video of the workshop tonight: https://vimeo.com/429855400
+
+## Workshop Agenda
+
 Today we will cover:
 
   - Who is EDA and what do we do?
