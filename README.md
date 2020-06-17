@@ -10,7 +10,7 @@ Video instructions are available here (~3mins): https://vimeo.com/429373928
 
 ## Post Workshop Update
 
-This code is live over here! https://blainebooher.com/eda-workshop-06-16/
+This code is live over here! http://blainebooher.com/eda-html-css-workshop-06-16-2020/
 
 Here's a video of the workshop tonight: https://vimeo.com/429855400
 
