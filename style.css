@@ -1,22 +1,50 @@
 body {
-  /* this is a css */
-  background-color: #c5fcef;
-  color: #313657;
-  font-family: "Courier New", Courier, monospace;
+  color: #ffcf75;
+  background-color: rgb(58, 15, 87);
+  font-family: 'Roboto', sans-serif;
+  /*
+  background-image: url("panda.jpg");
+  background-size: cover;
+  */
+}
 
-  /* EVERYTHING IS A BOX */
+/* Everything is a box
 
-  /* MARGIN */
-  /* BORDER */
-  /* PADDING */
-  /* CONTENT */
-  /* PADDING */
-  /* BORDER */
-  /* MARGIN */
+margin
+border
+padding
+TEXT CONTENT
+padding
+border
+margin
+*/
+
+nav {
+
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px 0px 20px 0px;
+}
+
+nav ul li a {
+  padding: 20px;
+}
+
+h1 {
+  border-bottom: 3px dashed #ffcf75;
+  padding: 10px;
+  text-align: center;
 }
 
 main {
-  width: 80%;
   max-width: 600px;
   margin: auto;
 }
@@ -26,30 +54,17 @@ img {
 }
 
 a {
-  color: #bf2e02;
-  font-weight: bold;
-}
-
-a:hover {
   color: white;
-  background-color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
 
-/* only apply these rules to any
-   html elements with class="video"
-*/
-.video {
-  text-align: center;
+/* target the link hover effect */
+a:hover {
+  background-color: #ffcf75;
+  color: rgb(58, 15, 87);
 }
 
-h1 {
-  border: 5px dashed black;
-  margin: 5px;
-  padding: 10px;
-  text-align: center;
-}
-
-h2 {
-  border-bottom: 3px dashed black;
-  text-align: center;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
 }
