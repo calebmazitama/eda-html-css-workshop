@@ -1,4 +1,4 @@
-Welcome Workshoppers! June 16 2020
+Welcome Workshoppers! Aug 25 2020
 ----------------------------------
 
 This is Emerging Digital Academy's FIRST Intro to HTML/CSS Workshop!
@@ -13,7 +13,6 @@ Today we will cover:
   - Who is EDA and what do we do?
     - Staff Introductions
     - Full Stack Engineering
-    - 1MC Talk @ Island Park
     - Other Workshops
   - intro: put your name in the chat!
 

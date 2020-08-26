@@ -1,55 +1,46 @@
 body {
-  /* this is a css */
-  background-color: #c5fcef;
-  color: #313657;
-  font-family: "Courier New", Courier, monospace;
-
-  /* EVERYTHING IS A BOX */
-
-  /* MARGIN */
-  /* BORDER */
-  /* PADDING */
-  /* CONTENT */
-  /* PADDING */
-  /* BORDER */
-  /* MARGIN */
+  background-color: #B6FFFF;
+  color: rgb(47, 0, 146);
+  font-family: 'Roboto', sans-serif;
 }
 
+/* padding: between BORDER and content
+   margin: between BORDER and other elements */
 main {
   width: 80%;
-  max-width: 600px;
-  margin: auto;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 2px solid #DDFFFF;
+  background-color: white;
 }
 
-img {
-  width: 100%;
+.my-content {
+  padding: 10px;
 }
 
 a {
-  color: #bf2e02;
-  font-weight: bold;
+  color: red;
 }
 
 a:hover {
   color: white;
-  background-color: black;
-}
-
-/* only apply these rules to any
-   html elements with class="video"
-*/
-.video {
-  text-align: center;
+  background-color: rgb(47, 0, 146);
+  font-weight: bold;
+  font-style: italic;
 }
 
 h1 {
-  border: 5px dashed black;
-  margin: 5px;
-  padding: 10px;
-  text-align: center;
+  margin-top: 5px;
+  border-bottom: 3px dashed rgb(47, 0, 146);
 }
 
-h2 {
-  border-bottom: 3px dashed black;
+h1, h2, h3, h4 {
   text-align: center;
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* restrict the image to 100% of the parent */
+main img {
+  width: 100%;
 }
