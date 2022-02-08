@@ -11,7 +11,7 @@ Video instructions are available here (~3mins): https://vimeo.com/429373928
 
 ## Post Workshop Update
 
-This code is live over here! http://blainebooher.com/eda-html-css-workshop-06-16-2020/
+This code is live over here! https://emergingdigitalacademy.github.io/eda-html-css-workshop/
 
 Here's a video of a past workshop: https://vimeo.com/429855400
 
