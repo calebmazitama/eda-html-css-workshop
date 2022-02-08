@@ -1,7 +1,8 @@
-Welcome Workshoppers!
+Intro to HTML/CSS Workshop!
 ---------------------
 
-This is Emerging Digital Academy's Intro to HTML/CSS Workshop!
+## Welcome!
+This is Emerging Digital Academy's 
 
 Please make sure that you have installed the Atom text editor (http://atom.io).
 Once installed, create a new folder and open Atom so that it looks like this!
