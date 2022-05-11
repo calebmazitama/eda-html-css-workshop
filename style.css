@@ -1,0 +1,29 @@
+body {
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+   background: rgb(2,0,36);
+   background: linear-gradient(41deg, rgba(2,0,36,1) 0%, rgba(255,18,91,1) 13%, rgba(5,208,113,1) 48%, rgba(209,4,156,1) 60%, rgba(4,72,209,1) 74%, rgba(2,210,187,1) 79%, rgba(209,1,213,1) 87%, rgba(0,212,255,1) 100%);
+}
+
+h1, h2 {
+   text-align: center;
+   margin: 0;
+   padding: 5px;
+}
+
+main {
+   background-color: white;
+   color: text;
+   width: 80%;
+   margin: 0 auto;
+   border-radius: 5px;
+}
+
+img {
+   width: 100%;
+}
+
+li {
+   display: inline-block;
+   padding: 5px;
+}
