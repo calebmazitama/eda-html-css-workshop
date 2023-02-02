@@ -4,10 +4,12 @@ Intro to HTML/CSS Workshop!
 ## Welcome!
 This is Emerging Digital Academy's 
 
-Please make sure that you have installed the Atom text editor (http://atom.io).
-Once installed, create a new folder and open Atom so that it looks like this!
+Please make sure that you have installed the VS Code text editor (https://code.visualstudio.com/).
+Once installed, create a new folder and open VS Code so that it looks like this!
 
-Video instructions are available here (~3mins): https://vimeo.com/429373928
+Video instructions are available here (~3mins):
+- Windows: https://www.youtube.com/watch?v=AdeWO-n9O2Q&t=0s
+- Mac: https://www.youtube.com/watch?v=8CJXB4Nu1wo
 
 ## Post Workshop Update
 
