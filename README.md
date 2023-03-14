@@ -25,7 +25,7 @@ Today we will cover:
     - Staff Introductions
     - Full Stack Engineering
     - Other Workshops
-  - Intro: Introduct yourself! (In the chat if this is virtual)
+  - Intro: Introduction of yourself! (In the chat if this is virtual)
 
   1. Download Atom from atom.io
   2. Create a new folder
